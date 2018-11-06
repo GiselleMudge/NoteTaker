@@ -1,6 +1,6 @@
 # NoteTaker
 
-NoteTaker - an app using Node and Express, Deployed via Heroku
+NoteTaker - an app using Node and Express, Deployed via Heroku. Check it out: https://immense-wildwood-57541.herokuapp.com/
 
 ### Overview
 
